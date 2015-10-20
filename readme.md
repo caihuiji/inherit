@@ -1,4 +1,4 @@
-#inherit 
+#inherit
 extract from backbone.extend
 
 
