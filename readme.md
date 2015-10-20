@@ -1,7 +1,9 @@
+#inherit 
 extract from backbone.extend
 
+
 #install
-> npm isntall c-inherit
+> npm install  c-inherit
 
 #usage
 ```javascript
